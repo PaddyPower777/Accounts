@@ -2,7 +2,7 @@
  * Account class used to model simple bank accounts, allowing money 
  * to be credited to, and debited and transfered from, an account.
  *
- * @author M250 Module Team
+ * @author Shane McFadden
  * @version 1.2
  */
 
