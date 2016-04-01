@@ -4,7 +4,7 @@
  * to be credited to, and debited and transfered from, an account, subject to 
  * a given credit limit. 
  *
- * @author M250 Module Team
+ * @author Shane McFadden
  * @version 1.7
  */
 public class CurrentAccount extends Account
