@@ -5,7 +5,7 @@ import ou.*;
  * AccountsIO is a utility class that uses static methods to
  * read from and write to text files the details of Account objects. 
  * 
- * @author M250 Module Team 
+ * @author Shane McFadden
  * @version 1.3
  */
 public class AccountsIO
